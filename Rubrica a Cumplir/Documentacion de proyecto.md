@@ -448,7 +448,7 @@ El diseño será claro y fácil de usar, pensado para usuarios con conocimientos
 
 ### 5.1. Pantalla de Login
 
-*(Aquí se incluye la imagen correspondiente al Mockup de Login)*
+<img width="1358" height="697" alt="599704141_2338913893277860_4125871710182223594_n" src="https://github.com/user-attachments/assets/c037ddb3-41f4-4cf0-9c27-fde4772cb50b" />
 
 ### 5.2. Pantalla de Productos
 
