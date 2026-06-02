@@ -387,19 +387,21 @@ El código fuente fue diseñado, programado y es dominado en su totalidad por lo
 ## 6. Mockups
 
 ### 6.1. Pantalla de Login
-*(Aquí se incluye la imagen correspondiente al Mockup de Login)*
+<img width="1365" height="597" alt="Captura de pantalla 2026-06-01 213728" src="https://github.com/user-attachments/assets/7f9286f8-4e63-4b47-b35f-a9b1a8d2a88c" />
 
 ### 6.2. Pantalla de Productos
-*(Aquí se incluye la imagen correspondiente al Inventario de Productos)*
+<img width="1351" height="598" alt="Captura de pantalla 2026-06-01 213511" src="https://github.com/user-attachments/assets/d09c6d7e-e81c-4b11-ae65-ffffc4e66800" />
+<img width="1349" height="334" alt="Captura de pantalla 2026-06-01 213638" src="https://github.com/user-attachments/assets/e31923a9-7faf-4105-8428-bc9313adabbd" />
 
 ### 6.3. Pantalla de Ventas
-*(Aquí se incluye la imagen correspondiente al Registro de Ventas POS)*
+<img width="1349" height="597" alt="Captura de pantalla 2026-06-01 213757" src="https://github.com/user-attachments/assets/bd6e78f4-1760-496f-9f5d-2c2323642249" />
 
 ### 6.4. Pantalla de Inventario
-*(Aquí se incluyen los paneles de Alertas de Reabastecimiento y Estado General de Inventario)*
+<img width="1348" height="600" alt="Captura de pantalla 2026-06-01 213817" src="https://github.com/user-attachments/assets/d02aa865-fe26-45eb-950e-6de34547a4ff" />
+<img width="1349" height="596" alt="Captura de pantalla 2026-06-01 213833" src="https://github.com/user-attachments/assets/2f3baedd-9efb-4fd6-905c-e93cd0d228ef" />
 
 ### 6.5. Pantalla de Reportes
-*(Aquí se visualizan las métricas de Analítica, Reportes e Ingresos Mensuales)*
+<img width="1349" height="596" alt="Captura de pantalla 2026-06-01 213904" src="https://github.com/user-attachments/assets/d5922e1e-8de4-400c-a385-71a90e766a1f" />
 
 ---
 
@@ -412,4 +414,4 @@ El código fuente fue diseñado, programado y es dominado en su totalidad por lo
 *(Aquí se incluye la evidencia correspondiente a la Solución 2)*
 
 ### 7.3. Porcentaje de más del 50% de Java de la Solución 3
-*(Aquí se incluye la evidencia correspondiente a la Solución 3)*
+<img width="1347" height="594" alt="Captura de pantalla 2026-06-01 213949" src="https://github.com/user-attachments/assets/33c7f0c3-b48f-4a3a-b597-848653733776" />
